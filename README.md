@@ -34,6 +34,8 @@ como Facebook e LinkedIn.
 -   `style.css` -- Estilos da interface
 -   `script.js` -- Lógica de envio e manipulação da interface
 
-## Autor
+## Licença
 
-Adriano Costa
+Esse projeto está sob a licença MIT.
+
+---
