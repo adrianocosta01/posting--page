@@ -7,6 +7,8 @@ Este projeto é uma página web simples que permite ao usuário criar um
 post com título e conteúdo, simulando o funcionamento de redes sociais
 como Facebook e LinkedIn.
 
+-[Visite o projeto online](https://adrianocosta01.github.io/posting--page/)
+
 ## Funcionalidades
 
 -   Campo para inserir título do post
